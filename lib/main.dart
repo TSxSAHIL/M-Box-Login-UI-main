@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             child: Column(
               children: [
                 const SizedBox(
-                  height: 50,
+                  height: 51,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
